@@ -146,10 +146,10 @@ background-position: 0 -70px;
 
 .ds4 .abxy {
     position: absolute;
-    width: 170px;
-    height: 171px;
-    top: 200px;
-    left: 762px;
+    width: 160px;
+    height: 151px;
+    top: 150px;
+    left: 615px;
 }
 
 .ds4 .button {
@@ -179,12 +179,14 @@ background-position: 0 -70px;
 .ds4 .x {
     background-position: -113px 0;
     top: 57px;
+    left: 10px;
 }
 
 .ds4 .y {
     background-position: 55px 0;
     left: 58px;
     bottom: 119px;
+    top:1px;
 }
 
 .ds4 .sticks {
