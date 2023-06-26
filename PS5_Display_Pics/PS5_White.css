@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://media.discordapp.net/attachments/1066715664087273616/1122825886220156978/Dpad.png?width=223&height=130);
+    background: url(dpad.png);
     position: absolute;
 }
 
