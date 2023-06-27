@@ -1,10 +1,10 @@
-/*BEGIN PS4 Controller Styling*/
+8888/*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
     background: url(https://media.discordapp.net/attachments/1121350976369065984/1122844345456930847/White_SkinNo_Buttons.png?width=1200&height=700);
     height: 600px;
     width: 1100px;
     /*    margin-left: -403px;
-        margin-top: -280px;*/
+        margin-top: -280px;*/8
 }
 
 .ds4.disconnected div {
@@ -231,7 +231,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(dpad.png);
+    background: url(Dpad.png);
     position: absolute;
 }
 
