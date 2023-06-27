@@ -12,7 +12,7 @@
 }
 
 .ds4 .triggers {
-    width: 540px;
+    width: 520px;
     height: 90px;
     position: absolute;
     left: 220px;
@@ -44,9 +44,9 @@
 
 .ds4 .bumpers {
     position: absolute;
-    width: 672px;
+    width: 587px;
     height: 23px;
-    left: 190px;
+    left: 193px;
     top: 106px;
 }
 
