@@ -226,8 +226,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 125px;
     height: 126px;
-    top: 220px;
-    left: 286px;
+    top: 175px;
+    left: 226px;
 }
 
 .ds4 .face {
@@ -246,26 +246,26 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.up {
-    left: 44px;
+    left: 43px;
     top: 0;
     background-position: -37px 0px;
 }
 
 .ds4 .face.down {
-    left: 44px;
-    bottom: 0;
+    left: 43px;
+    bottom: 9px;
     background-position: 0px 0;
 }
 
 .ds4 .face.left {
-    top: 45px;
-    left: 0;
+    top: 39px;
+    left: 5px;
     background-position: 104px 0;
 }
 
 .ds4 .face.right {
-    top: 45px;
-    right: 0px;
+    top: 39px;
+    right: 6px;
     background-position: 52px 0;
 }
 
