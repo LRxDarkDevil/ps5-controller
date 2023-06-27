@@ -16,7 +16,7 @@
     height: 90px;
     position: absolute;
     left: 220px;
-    top: 15px;
+    top: -10px;
 }
 
 .ds4 .trigger {
@@ -46,8 +46,8 @@
     position: absolute;
     width: 672px;
     height: 23px;
-    left: 230px;
-    top: 100px;
+    left: 190px;
+    top: 106px;
 }
 
 .ds4 .bumper.pressed {
